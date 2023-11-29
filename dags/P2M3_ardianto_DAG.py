@@ -1,15 +1,3 @@
-'''
-Nama    : Ardianto
-Batch   : RMT - 024
-__________________________________________________
-Program ini berisi DAG beserta rangkaian proses yang terdiri dari:
-1. Fetch/import data dari pg admin
-2. Data cleaning
-3. Sending data ke kibana melalui elasticsearh
-
-
-'''
-
 import pandas as pd
 import psycopg2 as db
 
