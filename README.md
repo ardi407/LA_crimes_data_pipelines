@@ -1,5 +1,4 @@
 # LA_crimes_data_pipelines
-_This project is made for accomplishing phase 2 as Milestone 3 in Hacktiv8_
 
 ## Objectives
 - Proficient in using Apache Airflow.
